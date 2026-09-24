@@ -2,7 +2,7 @@
 
 A live data pipeline, dashboard and analysis project for a Data Analyst portfolio. It pulls live prices for bitcoin, ethereum, solana and dogecoin every 5 minutes, stores them in SQLite, flags sudden price moves as anomalies, and shows everything on an auto-refreshing Streamlit dashboard. A Jupyter notebook analyses the collected data.
 
-**Live dashboard:** PASTE-YOUR-STREAMLIT-LINK-HERE
+**Live dashboard:** (https://realtimecryptotracker-74gh8wn9vxtkznmfaxzp3c.streamlit.app/)
 
 ## Dashboard
 ![Latest prices](CRYPTO_DASHBOARD_RESULT/d1_latestprices.png)
